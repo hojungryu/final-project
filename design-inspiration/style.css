@@ -13,18 +13,18 @@ div {
     width: 150px;
     display: inline-block;
 }
-.color-1 {
+div.color-1 {
     background-color: #E1FF1F;
 }
-.color-2 {
+div.color-2 {
     background-color: #6DFF33;
 }
-.color-3 {
+div.color-3 {
     background-color: #37C400;
 }
-.color-4{
+div.color-4{
     background-color: #0396FF;
 }
-.color-5 {
+div .color-5 {
     background-color: #0329FF;
 }
