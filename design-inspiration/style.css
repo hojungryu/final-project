@@ -28,3 +28,7 @@ div.color-4{
 div .color-5 {
     background-color: #0329FF;
 }
+img {
+    width: 450px;
+    margin: 15px;
+}
