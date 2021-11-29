@@ -1,0 +1,30 @@
+h1,h2,h3,h4 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
+p {font-family: 'Open Sans', sans-serif;}
+div #color-palette {
+    background-color: white;
+    border: 2px black;
+    padding: 10px;
+}
+div {
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+}
+.color-1 {
+    background-color: #E1FF1F;
+}
+.color-2 {
+    background-color: #6DFF33;
+}
+.color-3 {
+    background-color: #37C400;
+}
+.color-4{
+    background-color: #0396FF;
+}
+.color-5 {
+    background-color: #0329FF;
+}
