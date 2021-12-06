@@ -2,14 +2,15 @@
 h1 {
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
-    color:#cddb00;
+    color:#e9f022;
+    margin: auto;
     }/* style css sheet */
 p,h2,li {
     font-family: 'Lato', sans-serif;
 }
 h2{
     font-weight: bold;
-    font-size:16px;
+    font-size:18px;
 }
 h3 {
     font-family: 'Lato', sans-serif;
