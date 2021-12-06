@@ -2,9 +2,13 @@
 title {
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
+    color:#E1FF1F;
     }/* style css sheet */
-p,h1,li {
+p,h1,h2,li {
     font-family: 'Lato', sans-serif;
+}
+h1{
+    color:#37C400;
 }
 .center {
   display: block;
@@ -15,4 +19,7 @@ p,h1,li {
 img {
 margin: auto;
 padding:20px;
+}
+body {
+    background-color: #0396FF;
 }
