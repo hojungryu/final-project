@@ -1,16 +1,17 @@
 
-title {
+h1 {
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
     color:#cddb00;
     }/* style css sheet */
-p,h1,li {
+p,h2,li {
     font-family: 'Lato', sans-serif;
 }
-h1{
+h2{
     font-weight: bold;
+    font-size:16px;
 }
-h2 {
+h3 {
     font-family: 'Lato', sans-serif;
     font-size: 12px;
 }
