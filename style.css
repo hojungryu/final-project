@@ -1,10 +1,12 @@
-
+/* style css sheet */
 h1 {
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
     color:#e9f022;
     margin: auto;
-    }/* style css sheet */
+    text-align: center;
+    padding: 2px;
+    }
 p,h2,li {
     font-family: 'Lato', sans-serif;
 }
