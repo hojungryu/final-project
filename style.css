@@ -7,9 +7,7 @@ title {
 p,h1,h2,li {
     font-family: 'Lato', sans-serif;
 }
-h1{
-    color:#37C400;
-}
+
 .center {
   display: block;
   margin-left: auto;
@@ -21,5 +19,5 @@ margin: auto;
 padding:20px;
 }
 body {
-    background-color: #0396FF;
+    background-color: #83bbe6;
 }
