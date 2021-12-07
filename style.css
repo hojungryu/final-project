@@ -1,11 +1,12 @@
 /* style css sheet */
 h1 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Merriweather', serif;
     font-weight: bold;
-    color:#e9f022;
+    font-size: 40px;
+    color:#ffffff;
     margin: auto;
     text-align: center;
-    padding: 4px;
+    padding: 8px;
     }
 p,h2,li {
     font-family: 'Lato', sans-serif;
@@ -18,7 +19,14 @@ h3 {
     font-family: 'Lato', sans-serif;
     font-size: 12px;
 }
-
+a {
+    color: #ffc905;
+    text-decoration: none;
+    font-weight: bold;
+}
+.header-caption {
+    color: #ffffff;
+}
 .center {
   display: block;
   margin-left: auto;
@@ -29,6 +37,14 @@ img {
 margin: auto;
 }
 
-body {
-    background-color: #83bbe6;
+.banner {
+    width:100%;
+}
+#header {
+    background-color:#588ffc;
+    padding:8px 0;
+    width: 100%;
+}
+.graphic-container {
+    padding: 30px;
 }
