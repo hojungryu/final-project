@@ -10,6 +10,7 @@ h1 {
     }
 p,h2,li {
     font-family: 'Lato', sans-serif;
+    line-height: 25px;
 }
 h2{
     font-weight: bold;
@@ -20,7 +21,7 @@ h3 {
     font-size: 12px;
 }
 a {
-    color: #ffc905;
+    color: #e0c514;
     text-decoration: none;
     font-weight: bold;
 }
@@ -41,10 +42,21 @@ margin: auto;
     width:100%;
 }
 #header {
-    background-color:#588ffc;
+    background-color:#2092c7;
     padding:8px 0;
     width: 100%;
 }
 .graphic-container {
-    padding: 30px;
+    width: 50%;
+    margin: 20px auto;
+}
+.footer-design {
+    background-color: #ffc905;
+    color: #ffffff;
+    gap:20px;
+    text-align: center;
+}
+iframe {
+    margin-top:50px;
+    margin-bottom: 10px;
 }
